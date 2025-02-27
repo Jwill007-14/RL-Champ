@@ -30,14 +30,14 @@ I also removed the variables that where place holders and not nedded for any EDA
 ### Key Visualizations
 
 #### Visualization 1: Count of each Genre of Games
-The countplot below shows that the Genre of game that is sold the most is Action based games where as the one selling the least is Strategy.
+This Histogram shows that teams with a lower score will lose more than they win. This is the standard for all Rocket League matches.
 
-![NGenre](https://github.com/user-attachments/assets/7e114398-aa3b-4849-8b4c-a64252a4a493)
+![RLC](https://github.com/user-attachments/assets/4dce03b6-f85d-4350-b91a-4c4bd1596ea6)
 
 #### Visualization 2: North American Sales vs Global Sales
-The scatterplot below shows that North American Sales have a significant affect on Global Sales with a correlation of 0.94.
+The scatterplot below shows that Shots have a significant correlation with Score, with a correlation of 0.72.This means more shots on net equate to a higher Score.
 
-![NA vs GS](https://github.com/user-attachments/assets/56d0e0b0-683f-42b3-8a41-51f139311b30)
+![RLC2](https://github.com/user-attachments/assets/fddebeba-1402-49d7-b185-f13589cae626)
 
 ## Model Performance
 
