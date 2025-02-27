@@ -54,4 +54,4 @@ Summarize the performance of the model(s) using key evaluation metrics (e.g., RM
 
 ## Conclusions/Recommendations
 
-My conclusion is rather simple the more often a team shots on net the more often they will score or win more often in overtime as well, so simply shoot as often as you can finding new and creative ways to get it past the goalie.
+My conclusion is rather simple the more often a team shoots on net the more often they will score or win more often in overtime as well, so simply shoot as often as you can finding new and creative ways to get it past the goalie.
