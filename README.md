@@ -1,4 +1,4 @@
-# Rocket League Championship Predictions.
+# <span style="color:red">Rocket League Championship Predictions.</span>
 
 ![download (4)](https://github.com/user-attachments/assets/a8a1dd06-afa3-4db6-ad9c-7e8c2c698470)
 
