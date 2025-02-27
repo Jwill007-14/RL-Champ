@@ -1,5 +1,7 @@
 # Rocket League Championship Predictions.
 
+![download (4)](https://github.com/user-attachments/assets/a8a1dd06-afa3-4db6-ad9c-7e8c2c698470)
+
 ## Problem Statement
 Rocket League is a very popular game that mixes soccar with rocket powered vehichels. There is both casual and ranked modes as well as tournaments allowing players to really test their metal. This data set is of Profesional Teams going head to head. Join me as I do some EDA to show you a few of the stats that can affect a teams winning chances. Then we will do some modeling on the data to predict how often a team wins as opposed to losing.
 
